@@ -1,2 +1,4 @@
-# homework3
-Homework 3
+My program decides what food the user should eat based on their hunger level,available time,and whether they want healthy food.
+An interesting example is the program first checks if the food is hot or cold and then asks an additional question about protein choice
+Create a python decision making program that asks multiple questions and uses if elif else statements to give a food recommendation(Homework 1)
+(homework 2)In Python, the for loop is often better than a while loop because it acts as a self-managing machine. When generating something structured like a multiplication table, you aren't waiting for a random event to happen; you are iterating through a known range of numbers.When I first tried writing a loop to go from 1 to 10, the output stopped at 9.To fix it, I had to adjust the "stop" parameter to 11.
